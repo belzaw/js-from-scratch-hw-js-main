@@ -33,5 +33,4 @@ function findCommonElements(array1, array2) {
   return newArray;
 }
 
-let arr = findCommonElements([1, 2, 3], [2, 3, 4]);
-console.log(arr);
+
