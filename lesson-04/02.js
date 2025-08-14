@@ -42,6 +42,11 @@ function findUniqueElements(array) {
   return newArray;
 }
 
+let arr = findUniqueElements([1, 2, 3, 2,2,2, 1,2 ,4]);
+
+console.log(arr);
+
+console.log(findUniqueElements([1, 2, 2, 3, 2, 4]));
 
 
 
